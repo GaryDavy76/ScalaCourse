@@ -1,0 +1,74 @@
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mInitial source changes: [0m
+[0m[[0mdebug[0m] [0m	removed:Set()[0m
+[0m[[0mdebug[0m] [0m	added: Set(C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\SizeTallyWorker.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardWorker.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardedKvStore.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ProducerExample.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardSupervisor.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
+[0m[[0mdebug[0m] [0mRemoved products: Set()[0m
+[0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\SizeTallyWorker.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardWorker.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardedKvStore.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ProducerExample.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardSupervisor.scala)[0m
+[0m[[0mdebug[0m] [0m[0m
+[0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m	product: Set()[0m
+[0m[[0mdebug[0m] [0m	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\SizeTallyWorker.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardWorker.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardedKvStore.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ProducerExample.scala, C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ShardSupervisor.scala)[0m
+[0m[[0mdebug[0m] [0mRecompiling all 6 sources: invalidated sources (6) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 6 Scala sources to C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\target\scala-2.12\classes...[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.1[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7a1defd8, interfacing (CompilerInterface) with Scala compiler version 2.12.1[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-feature[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	C:\Program Files\Java\jdk1.8.0_131\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_131\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_131\jre\classes;C:\Users\gdavy\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	C:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\target\scala-2.12\classes;C:\Users\gdavy\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.4.16.jar;C:\Users\gdavy\.ivy2\cache\com.typesafe\config\bundles\config-1.3.0.jar;C:\Users\gdavy\.ivy2\cache\org.scala-lang.modules\scala-java8-compat_2.12\bundles\scala-java8-compat_2.12-0.8.0.jar;C:\Users\gdavy\.ivy2\cache\com.typesafe.akka\akka-slf4j_2.12\jars\akka-slf4j_2.12-2.4.16.jar;C:\Users\gdavy\.ivy2\cache\org.slf4j\slf4j-api\jars\slf4j-api-1.7.16.jar;C:\Users\gdavy\.ivy2\cache\ch.qos.logback\logback-classic\jars\logback-classic-1.1.3.jar;C:\Users\gdavy\.ivy2\cache\ch.qos.logback\logback-core\jars\logback-core-1.1.3.jar[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:6: not found: object kafka[0m
+[0m[[31merror[0m] [0mimport kafka.consumer.KafkaStream[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:7: not found: object kafka[0m
+[0m[[31merror[0m] [0mimport kafka.utils.Logging[0m
+[0m[[31merror[0m] [0m       ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:8: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.clients.consumer.{ConsumerConfig, KafkaConsumer}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:17: not found: type Logging[0m
+[0m[[31merror[0m] [0m                           val topic: String) extends Logging {[0m
+[0m[[31merror[0m] [0m                                                      ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:20: not found: type KafkaConsumer[0m
+[0m[[31merror[0m] [0m  val consumer = new KafkaConsumer[String, String](props)[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:32: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.BOOTSTRAP_SERVERS_CONFIG, brokers)[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:33: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.GROUP_ID_CONFIG, groupId)[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:34: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.ENABLE_AUTO_COMMIT_CONFIG, "true")[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:35: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.AUTO_COMMIT_INTERVAL_MS_CONFIG, "1000")[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:36: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.SESSION_TIMEOUT_MS_CONFIG, "30000")[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:37: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.KEY_DESERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringDeserializer")[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ConsumerExample.scala:38: not found: value ConsumerConfig[0m
+[0m[[31merror[0m] [0m    props.put(ConsumerConfig.VALUE_DESERIALIZER_CLASS_CONFIG, "org.apache.kafka.common.serialization.StringDeserializer")[0m
+[0m[[31merror[0m] [0m              ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ProducerExample.scala:5: object apache is not a member of package org[0m
+[0m[[31merror[0m] [0mimport org.apache.kafka.clients.producer.{KafkaProducer, ProducerRecord}[0m
+[0m[[31merror[0m] [0m           ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ProducerExample.scala:25: not found: type KafkaProducer[0m
+[0m[[31merror[0m] [0m  val producer = new KafkaProducer[String, String](props)[0m
+[0m[[31merror[0m] [0m                     ^[0m
+[0m[[31merror[0m] [0mC:\Users\gdavy\Desktop\Gary Davy\Project\ScalaProject\src\main\scala\com\example\ProducerExample.scala:31: not found: type ProducerRecord[0m
+[0m[[31merror[0m] [0m    val data = new ProducerRecord[String, String](topic, ip, msg)[0m
+[0m[[31merror[0m] [0m                   ^[0m
+[0m[[31merror[0m] [0m15 errors found[0m
+[0m[[0mdebug[0m] [0mCompilation failed (CompilerInterface)[0m
+[0m[[31merror[0m] [0m(compile:[31mcompileIncremental[0m) Compilation failed[0m
